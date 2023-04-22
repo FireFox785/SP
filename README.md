@@ -9,8 +9,7 @@
 ```python
 import ftplib
 ```
-Для установки библиотек в командной строке введите сдедующие команды:
-```
-pip install pyftpdlib
+Результат рограммы :
 
-```
+![image](https://user-images.githubusercontent.com/131512468/233778597-a5857de9-80ae-487a-9c17-d853734c14d5.png)
+
