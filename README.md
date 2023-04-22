@@ -16,4 +16,4 @@
 
 ###### P.S. Данный репозиторий был создан для сдачи лабораторных работ по предмету ***"Сетевое программирование"***
 
-!(https://i.pinimg.com/originals/1c/f8/35/1cf835ddf8091a0489a9ccee7f04acc9.png)
+![Лого](https://i.pinimg.com/originals/1c/f8/35/1cf835ddf8091a0489a9ccee7f04acc9.png)
