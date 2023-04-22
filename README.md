@@ -18,3 +18,6 @@ pip install sockets
 pip install supyr-struct
 pip install os-sys
 ```
+Результатом данной программы является пепедача файла:
+
+![image](https://user-images.githubusercontent.com/131512468/233776870-45099f2b-0755-4f85-b43f-697c96a6132c.png)
