@@ -2,8 +2,6 @@
 
 ![Python-3.9.7](https://img.shields.io/badge/Python-v3.9.7-blue?style=for-the-badge) 
 
-##Руководство пользователя
-
 Файл ***server.py*** отвечает за серверную часть.
 
 Файл ***client.py*** отвечает за клиенсткую часть.
