@@ -8,16 +8,9 @@
 Для корректной работы скриптов требуются следующие библиотеки ну и подключение к интернету:
 ```python
 import ftplib
-import os
-import time
-from tkinter import filedialog
-import tkinter
-import tabulate
 ```
 Для установки библиотек в командной строке введите сдедующие команды:
 ```
 pip install pyftpdlib
-pip install python-time
-pip install tkintertable
-pip install tabulate
+
 ```
