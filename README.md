@@ -2,7 +2,7 @@
 
 ![Python-3.9.7](https://img.shields.io/badge/Python-v3.9.7-blue?style=for-the-badge) 
 
-##Руководство пользователя
+Руководство пользователя
 
 Для начала работы запустить файл ***lab3*** 
 
@@ -10,6 +10,6 @@
 
 ![Python-3.9.7](https://img.shields.io/badge/Python-v3.9.7-blue?style=for-the-badge) 
 
-##Руководство пользователя
+Руководство пользователя
 
 Для начала работы запустить файл ***lab4*** 
