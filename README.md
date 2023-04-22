@@ -19,3 +19,6 @@ pip install python-http-client
 pip install uuid
 pip install regex
 ```
+Результатом данной программы является вывод информации о пользователе:
+
+![image](https://user-images.githubusercontent.com/131512468/233776604-7bdee09f-d67e-453f-9059-021077f3a712.png)
