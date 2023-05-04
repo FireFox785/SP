@@ -1,4 +1,4 @@
-# Лабораторная работа №2
+# Анализатор пакетов (снифер)
 
 ![Python-3.9.7](https://img.shields.io/badge/Python-v3.9.7-blue?style=for-the-badge) 
 
